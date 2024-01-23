@@ -1,0 +1,27 @@
+IN EXCEL: -
+
+1. Example of: IF Statement, Nested IF, AND, OR, NOT, IFERROR, SUMIF, AVERAGEIF, COUNTIF and AVERAGEIF
+
+2. Create a Pivot Table
+
+3. Use Sort & Filter on a Table
+
+4. Inserting Charts & Graphs (Visualization in Excel)
+
+5. Freezing Pane (4th Worksheet)
+
+6. Create Table, Inserting data, Alter Table, Drop Table, View, Functions
+
+7. Join in SQL, TYPES: Inner, left, right and full join (Just need one line definition)
+
+8. What data source we can connect in Tableau?
+
+
+
+
+
+
+
+
+
+
